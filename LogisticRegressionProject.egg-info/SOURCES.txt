@@ -1,7 +1,0 @@
-README.md
-setup.py
-LogisticRegressionProject.egg-info/PKG-INFO
-LogisticRegressionProject.egg-info/SOURCES.txt
-LogisticRegressionProject.egg-info/dependency_links.txt
-LogisticRegressionProject.egg-info/requires.txt
-LogisticRegressionProject.egg-info/top_level.txt
