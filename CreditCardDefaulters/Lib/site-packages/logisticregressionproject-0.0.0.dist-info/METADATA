@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: LogisticRegressionProject
+Version: 0.0.0
+Author: Jagadish
+Author-email: pjagadish18@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: Flask
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
