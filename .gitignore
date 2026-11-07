@@ -153,13 +153,13 @@ activemq-data/
 .env
 .envrc
 .venv
+CreditCardDefaulters/
 env/
 venv/
 ENV/
 env.bak/
 venv.bak/
-CreditCardDefaulters/
-CreditCardDefaulters
+
 
 # Spyder project settings
 .spyderproject
