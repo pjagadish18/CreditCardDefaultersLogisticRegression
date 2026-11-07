@@ -3,7 +3,7 @@
 ## Created virtual environment
 ```
 CreditCardDefaulters
-Python version 3.11
+Python version 3.12
 conda activate CreditCardDefaulters/
 ```
 ### Install all necessary libraries
@@ -20,7 +20,7 @@ The goal is to build an automated model for both identifying the key factors, an
 
 ### Dataset information
 ```
-The dataset used in this study is the Default of credit card clients from the UCI machine learning repository.
+The dataset used is Default of credit card clients from the UCI machine learning repository.
 It consists of 30000 observations that represent distinct credit card clients. Each observation has 24 attributes that contain information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients
 
 The first group of variables contains information about the client personal information:
@@ -61,4 +61,9 @@ PAY_AMT6: Amount of previous payment in April, 2005 (NT dollar)
 The last variable is the one to be predicted:
 
 default payment next month: indicate whether the credit card holders are defaulters or non-defaulters (1=yes, 0=no)
+```
+
+## Best Model
+```
+Best model selected based on f1 score and it was Logistic Regression
 ```
